@@ -534,7 +534,7 @@ plt.show()
 
 
     
-![jpg](/img/posts/market/04.png)
+![jpg](output_19_0.png)
     
 Esta figura nos muestra cosas muy interesante como por ejemplo cerca a septiembre del 2018 hubo una caida basta fuerte casí del 100% del precio, curiosamente en agosto del 2018 ocurrio una reconversión monetaria en Venezuela, también podemos ver como el precio comienza  a tomar ajustes y como comienza a ofrecer retornos  entre +- 25%, pero para ver el rendimiento de una share es preferible usar un histograma, veamos el rendimiento de esta forma. 
 
@@ -545,7 +545,7 @@ plt.title('performance distribution FNC')
 plt.show()
 ```
    
-![jpg](/img/posts/market/2.png)
+![jpg](output_20_0.png)
     
 Ahorap odemos ver que para la fecha 2018-2021 ha tenido retornos negativos y positivos en frecuencias similares, sin embargo los negativos ocupan un porción relativamente mayor, además vemos que aunque con poca probabilidades se pueden obtener un rendimiento de hasta el 20% pero igual manera se puede tener perdidas de casi el 20%.
 
@@ -568,7 +568,7 @@ plt.show()
 
 
     
-![png](/img/posts/market/3.png)
+![png](output_22_0.png)
     
 
 
